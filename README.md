@@ -15,7 +15,10 @@
 
 Please have a look: [Heroku App](https://funny-farm-frontend.herokuapp.com/). The backend is also hosted in Heroku so it might take a while for contents to load.
 
-![Screenshot 1](https://github.com/Midnightlight/Funny-farm/raw/master/Screenshot-1.png)
+![Screenshot 1](https://github.com/Midnightlight/Funny-Farm/raw/master/Screenshot-1.png)
+![Screenshot 2](https://github.com/Midnightlight/Funny-Farm/raw/master/Screenshot-2.png)
+
+
 
 
 ## Resources you might need:
